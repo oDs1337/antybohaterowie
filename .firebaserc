@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "antybohaterowie"
+  },
+  "targets": {
+    "antybohaterowie": {
+      "hosting": {
+        "antybohaterowie": [
+          "antybohaterowie"
+        ]
+      }
+    }
+  }
+}
